@@ -13,9 +13,7 @@ import com.localswapi.domain.PagePlanetApi;
 import com.localswapi.domain.Planet;
 import com.localswapi.domain.PlanetApi;
 import com.localswapi.repository.PlanetRepo;
-
-
-import utils.ApiUtils;
+import com.localswapi.utils.ApiUtils;
 
 @Service
 public class PlanetService{

@@ -1,4 +1,4 @@
-package utils;
+package com.localswapi.utils;
 
 import java.util.ArrayList;
 import java.util.Collections;
